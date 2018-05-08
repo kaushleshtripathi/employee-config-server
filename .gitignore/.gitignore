@@ -1,7 +1,0 @@
-.mvn/
-.settings/
-bin/
-target/
-.classpath
-.project
-mvnw*
